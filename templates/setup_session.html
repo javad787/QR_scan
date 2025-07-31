@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setup Session</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
+        <h1 class="text-2xl font-bold mb-6 text-center">تنظیم دوره</h1>
+        {% if error %}
+            <p class="text-red-500 mb-4">{{ error }}</p>
+        {% endif %}
+        <form action="{{ url_for('setup_session') }}" method="post" class="space-y-4">
+            <div>
+                <label for="course_id" class="block text-sm font-medium text-gray-700">دوره</label>
+                <input type="text" id="course_id" name="course_id" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+            </div>
+            <div>
+                <label for="session_id" class="block text-sm font-medium text-gray-700">جلسه</label>
+                <input type="text" id="session_id" name="session_id" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+            </div>
+            <button type="submit" class="w-full bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700">شروع</button>
+        </form>
+        <a href="{{ url_for('logout') }}" class="block text-center mt-4 text-indigo-600 hover:underline">خروج</a>
+    </div>
+</body>
+</html>

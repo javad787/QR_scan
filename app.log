@@ -1,0 +1,310 @@
+2025-07-12 20:16:16,584 WARNING:  * Debugger is active!
+2025-07-12 20:16:16,586 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:16:17,679 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:16:20,218 WARNING:  * Debugger is active!
+2025-07-12 20:16:20,219 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:18:52,284 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-12 20:18:52,285 INFO: [33mPress CTRL+C to quit[0m
+2025-07-12 20:18:52,285 INFO:  * Restarting with stat
+2025-07-12 20:18:52,822 WARNING:  * Debugger is active!
+2025-07-12 20:18:52,822 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:18:57,087 INFO: 127.0.0.1 - - [12/Jul/2025 20:18:57] "[32mGET /attendance_list?course_id=1&session_id=1 HTTP/1.1[0m" 302 -
+2025-07-12 20:18:57,115 INFO: 127.0.0.1 - - [12/Jul/2025 20:18:57] "GET /login HTTP/1.1" 200 -
+2025-07-12 20:19:16,243 INFO: User admin logged in
+2025-07-12 20:19:16,244 INFO: 127.0.0.1 - - [12/Jul/2025 20:19:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-12 20:19:16,250 INFO: 127.0.0.1 - - [12/Jul/2025 20:19:16] "GET /setup_session HTTP/1.1" 200 -
+2025-07-12 20:19:25,668 INFO: 127.0.0.1 - - [12/Jul/2025 20:19:25] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-12 20:19:25,704 INFO: 127.0.0.1 - - [12/Jul/2025 20:19:25] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:19:43,056 INFO: Student found via search: \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc
+2025-07-12 20:19:43,057 INFO: 127.0.0.1 - - [12/Jul/2025 20:19:43] "POST /search HTTP/1.1" 200 -
+2025-07-12 20:21:31,285 INFO: 127.0.0.1 - - [12/Jul/2025 20:21:31] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:21:44,591 INFO: Student found via search: \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc
+2025-07-12 20:21:44,593 INFO: 127.0.0.1 - - [12/Jul/2025 20:21:44] "POST /search HTTP/1.1" 200 -
+2025-07-12 20:27:31,950 INFO: 127.0.0.1 - - [12/Jul/2025 20:27:31] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:28:17,640 INFO: 127.0.0.1 - - [12/Jul/2025 20:28:17] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:28:19,393 INFO: 127.0.0.1 - - [12/Jul/2025 20:28:19] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:29:25,666 INFO: 127.0.0.1 - - [12/Jul/2025 20:29:25] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:29:50,963 INFO: 127.0.0.1 - - [12/Jul/2025 20:29:50] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:30:13,633 INFO: 127.0.0.1 - - [12/Jul/2025 20:30:13] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:30:32,181 INFO: 127.0.0.1 - - [12/Jul/2025 20:30:32] "GET /setup_session HTTP/1.1" 200 -
+2025-07-12 20:30:36,135 INFO: 127.0.0.1 - - [12/Jul/2025 20:30:36] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-12 20:30:36,140 INFO: 127.0.0.1 - - [12/Jul/2025 20:30:36] "GET /?course_id=1&session_id=2 HTTP/1.1" 200 -
+2025-07-12 20:31:32,581 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:31:32,649 INFO:  * Restarting with stat
+2025-07-12 20:31:33,207 WARNING:  * Debugger is active!
+2025-07-12 20:31:33,223 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:31:41,749 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:31:41,810 INFO:  * Restarting with stat
+2025-07-12 20:31:42,429 WARNING:  * Debugger is active!
+2025-07-12 20:31:42,431 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:31:43,513 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:31:43,583 INFO:  * Restarting with stat
+2025-07-12 20:31:44,214 WARNING:  * Debugger is active!
+2025-07-12 20:31:44,216 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:31:47,458 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:31:47,543 INFO:  * Restarting with stat
+2025-07-12 20:31:48,080 WARNING:  * Debugger is active!
+2025-07-12 20:31:48,083 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:31:59,577 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:31:59,650 INFO:  * Restarting with stat
+2025-07-12 20:32:00,243 WARNING:  * Debugger is active!
+2025-07-12 20:32:00,243 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:32:07,614 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:32:07,677 INFO:  * Restarting with stat
+2025-07-12 20:40:08,462 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-12 20:40:08,462 INFO: [33mPress CTRL+C to quit[0m
+2025-07-12 20:40:08,462 INFO:  * Restarting with stat
+2025-07-12 20:40:08,998 WARNING:  * Debugger is active!
+2025-07-12 20:40:08,998 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:40:12,116 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:12] "[32mGET /attendance_list?course_id=1&session_id=2 HTTP/1.1[0m" 302 -
+2025-07-12 20:40:12,124 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:12] "GET /login HTTP/1.1" 200 -
+2025-07-12 20:40:13,383 INFO: User admin logged in
+2025-07-12 20:40:13,384 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-12 20:40:13,391 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:13] "GET /setup_session HTTP/1.1" 200 -
+2025-07-12 20:40:17,417 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:17] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-12 20:40:17,429 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:17] "GET /?session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:40:18,869 INFO: 127.0.0.1 - - [12/Jul/2025 20:40:18] "GET /attendance_list?course_id=&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:41:02,279 INFO: 127.0.0.1 - - [12/Jul/2025 20:41:02] "GET /?course_id=&session_id=1 HTTP/1.1" 200 -
+2025-07-12 20:42:41,883 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:42:41,994 INFO:  * Restarting with stat
+2025-07-12 20:42:42,566 WARNING:  * Debugger is active!
+2025-07-12 20:42:42,568 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:42:52,077 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-12 20:42:52,124 INFO:  * Restarting with stat
+2025-07-12 20:44:27,811 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-12 20:44:27,812 INFO: [33mPress CTRL+C to quit[0m
+2025-07-12 20:44:27,813 INFO:  * Restarting with stat
+2025-07-12 20:44:28,380 WARNING:  * Debugger is active!
+2025-07-12 20:44:28,383 INFO:  * Debugger PIN: 100-909-107
+2025-07-12 20:44:28,408 INFO: 127.0.0.1 - - [12/Jul/2025 20:44:28] "[32mGET /?course_id=&session_id=1 HTTP/1.1[0m" 302 -
+2025-07-12 20:44:28,428 INFO: 127.0.0.1 - - [12/Jul/2025 20:44:28] "GET /login HTTP/1.1" 200 -
+2025-07-12 20:44:29,981 INFO: User admin logged in
+2025-07-12 20:44:29,981 INFO: 127.0.0.1 - - [12/Jul/2025 20:44:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-12 20:44:29,987 INFO: 127.0.0.1 - - [12/Jul/2025 20:44:29] "GET /setup_session HTTP/1.1" 200 -
+2025-07-12 20:44:34,947 INFO: 127.0.0.1 - - [12/Jul/2025 20:44:34] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-12 20:44:34,954 INFO: 127.0.0.1 - - [12/Jul/2025 20:44:34] "GET /?course_id=1&session_id=2 HTTP/1.1" 200 -
+2025-07-12 20:51:37,711 INFO: Student found via search: \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc
+2025-07-12 20:51:37,712 INFO: 127.0.0.1 - - [12/Jul/2025 20:51:37] "POST /search HTTP/1.1" 200 -
+2025-07-12 20:52:04,299 ERROR: Error processing QR code: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:813: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-07-12 20:52:04,299 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:04] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:05,342 WARNING: No QR code detected in image
+2025-07-12 20:52:05,343 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:05] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:06,424 WARNING: No QR code detected in image
+2025-07-12 20:52:06,426 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:06] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:07,484 WARNING: No QR code detected in image
+2025-07-12 20:52:07,485 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:07] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:08,530 WARNING: No QR code detected in image
+2025-07-12 20:52:08,531 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:08] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:09,599 WARNING: No QR code detected in image
+2025-07-12 20:52:09,600 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:09] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:10,654 WARNING: No QR code detected in image
+2025-07-12 20:52:10,654 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:10] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:10,906 INFO: Student found via search: \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc
+2025-07-12 20:52:10,907 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:10] "POST /search HTTP/1.1" 200 -
+2025-07-12 20:52:11,712 WARNING: No QR code detected in image
+2025-07-12 20:52:11,712 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:11] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:12,766 WARNING: No QR code detected in image
+2025-07-12 20:52:12,766 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:12] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:13,251 INFO: Attendance recorded for \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc (entry)
+2025-07-12 20:52:13,251 INFO: Attendance updated: \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc - entry
+2025-07-12 20:52:13,251 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:13] "POST /attendance HTTP/1.1" 200 -
+2025-07-12 20:52:13,827 WARNING: No QR code detected in image
+2025-07-12 20:52:13,828 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:13] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:14,900 WARNING: No QR code detected in image
+2025-07-12 20:52:14,900 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:14] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:15,604 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:15] "POST /attendance HTTP/1.1" 200 -
+2025-07-12 20:52:15,963 WARNING: No QR code detected in image
+2025-07-12 20:52:15,964 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:15] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:17,021 WARNING: No QR code detected in image
+2025-07-12 20:52:17,022 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:17] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:18,113 WARNING: No QR code detected in image
+2025-07-12 20:52:18,114 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:18] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:19,154 WARNING: No QR code detected in image
+2025-07-12 20:52:19,154 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:19] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:19,601 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:19] "POST /attendance HTTP/1.1" 200 -
+2025-07-12 20:52:20,198 WARNING: No QR code detected in image
+2025-07-12 20:52:20,199 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:20] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:21,244 WARNING: No QR code detected in image
+2025-07-12 20:52:21,245 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:21] "POST /scan HTTP/1.1" 200 -
+2025-07-12 20:52:22,176 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:22] "GET /attendance_list?course_id=1&session_id=2 HTTP/1.1" 200 -
+2025-07-12 20:52:35,688 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:35] "GET /add_student?course_id=1&session_id=2 HTTP/1.1" 200 -
+2025-07-12 20:52:44,969 INFO: QR code generated for 09303409268
+2025-07-12 20:52:44,976 INFO: Student added: \u0645\u062d\u0645\u062f \u062c\u0648\u0627\u062f \u0631\u062d\u0645\u0627\u0646\u06cc
+2025-07-12 20:52:44,977 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:44] "[32mPOST /add_student?course_id=1&session_id=2 HTTP/1.1[0m" 302 -
+2025-07-12 20:52:44,980 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:44] "GET /?course_id=1&session_id=2 HTTP/1.1" 200 -
+2025-07-12 20:52:48,208 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:48] "GET /setup_session HTTP/1.1" 200 -
+2025-07-12 20:52:56,214 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:56] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-12 20:52:56,219 INFO: 127.0.0.1 - - [12/Jul/2025 20:52:56] "GET /?course_id=14&session_id=4 HTTP/1.1" 200 -
+2025-07-12 20:53:03,936 INFO: 127.0.0.1 - - [12/Jul/2025 20:53:03] "GET /attendance_list?course_id=14&session_id=4 HTTP/1.1" 200 -
+2025-07-12 20:53:10,829 INFO: 127.0.0.1 - - [12/Jul/2025 20:53:10] "[32mPOST /reset_attendance HTTP/1.1[0m" 302 -
+2025-07-12 20:53:10,843 INFO: 127.0.0.1 - - [12/Jul/2025 20:53:10] "GET /attendance_list?course_id=14&session_id=4 HTTP/1.1" 200 -
+2025-07-12 20:53:11,813 INFO: 127.0.0.1 - - [12/Jul/2025 20:53:11] "GET /?course_id=14&session_id=4 HTTP/1.1" 200 -
+2025-07-14 18:56:02,216 INFO: User admin logged in
+2025-07-14 18:58:51,137 ERROR: QR scan failed: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:813: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+Traceback (most recent call last):
+  File "c:\Users\No1\Desktop\QR_Scan-main\app.py", line 281, in scan_qr
+    image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cv2.error: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:813: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-07-14 18:59:54,521 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 18:59:54,521 INFO: [33mPress CTRL+C to quit[0m
+2025-07-14 18:59:54,522 INFO:  * Restarting with stat
+2025-07-14 18:59:54,991 WARNING:  * Debugger is active!
+2025-07-14 18:59:55,004 INFO:  * Debugger PIN: 380-782-367
+2025-07-14 18:59:56,677 INFO: 127.0.0.1 - - [14/Jul/2025 18:59:56] "[32mGET /attendance_list?course_id=14&session_id=3 HTTP/1.1[0m" 302 -
+2025-07-14 18:59:56,691 INFO: 127.0.0.1 - - [14/Jul/2025 18:59:56] "GET /login HTTP/1.1" 200 -
+2025-07-14 18:59:58,544 INFO: User admin logged in
+2025-07-14 18:59:58,545 INFO: 127.0.0.1 - - [14/Jul/2025 18:59:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-14 18:59:58,552 INFO: 127.0.0.1 - - [14/Jul/2025 18:59:58] "GET /setup_session HTTP/1.1" 200 -
+2025-07-14 19:00:02,665 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:02] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-14 19:00:02,674 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:02] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-14 19:00:04,083 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:04] "GET /attendance_list?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-14 19:00:06,861 INFO: Downloaded absent students for course 14, session 2
+2025-07-14 19:00:06,862 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:06] "GET /download_absent?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-14 19:00:07,921 ERROR: Error downloading exited students: name 'attendance' is not defined
+2025-07-14 19:00:07,922 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:07] "GET /download_exited?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-14 19:00:10,803 INFO: Downloaded rejected students for course 14, session 2
+2025-07-14 19:00:10,803 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:10] "GET /download_rejected?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-14 19:00:11,786 INFO: Downloaded present students for course 14, session 2
+2025-07-14 19:00:11,787 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:11] "GET /download_present?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-14 19:00:13,649 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:13] "GET /setup_session HTTP/1.1" 200 -
+2025-07-14 19:00:15,191 INFO: User logged out
+2025-07-14 19:00:15,192 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:15] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-14 19:00:15,197 INFO: 127.0.0.1 - - [14/Jul/2025 19:00:15] "GET /login HTTP/1.1" 200 -
+2025-07-14 20:19:13,170 INFO: User admin logged in
+2025-07-14 20:19:13,171 INFO: 127.0.0.1 - - [14/Jul/2025 20:19:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-14 20:19:13,178 INFO: 127.0.0.1 - - [14/Jul/2025 20:19:13] "GET /setup_session HTTP/1.1" 200 -
+2025-07-14 20:19:21,778 INFO: 127.0.0.1 - - [14/Jul/2025 20:19:21] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-14 20:19:21,784 INFO: 127.0.0.1 - - [14/Jul/2025 20:19:21] "GET /?course_id=14&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:34:57,179 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 10:34:57,180 INFO: [33mPress CTRL+C to quit[0m
+2025-07-31 10:34:57,181 INFO:  * Restarting with stat
+2025-07-31 10:34:57,732 WARNING:  * Debugger is active!
+2025-07-31 10:34:57,735 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:35:04,888 INFO: 127.0.0.1 - - [31/Jul/2025 10:35:04] "[32mGET / HTTP/1.1[0m" 302 -
+2025-07-31 10:35:04,919 INFO: 127.0.0.1 - - [31/Jul/2025 10:35:04] "GET /login HTTP/1.1" 200 -
+2025-07-31 10:35:11,779 INFO: 127.0.0.1 - - [31/Jul/2025 10:35:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-31 10:35:13,878 INFO: User admin logged in
+2025-07-31 10:35:13,879 INFO: 127.0.0.1 - - [31/Jul/2025 10:35:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-31 10:35:13,910 INFO: 127.0.0.1 - - [31/Jul/2025 10:35:13] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 10:37:31,819 INFO: 127.0.0.1 - - [31/Jul/2025 10:37:31] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 10:40:02,881 INFO: 127.0.0.1 - - [31/Jul/2025 10:40:02] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 10:40:08,580 INFO: 127.0.0.1 - - [31/Jul/2025 10:40:08] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-31 10:40:08,625 INFO: 127.0.0.1 - - [31/Jul/2025 10:40:08] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:40:41,954 INFO: 127.0.0.1 - - [31/Jul/2025 10:40:41] "GET /attendance_list?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:41:19,756 INFO: 127.0.0.1 - - [31/Jul/2025 10:41:19] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:41:44,720 INFO: 127.0.0.1 - - [31/Jul/2025 10:41:44] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:42:19,811 INFO: 127.0.0.1 - - [31/Jul/2025 10:42:19] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:42:32,040 INFO: 127.0.0.1 - - [31/Jul/2025 10:42:32] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:42:51,439 INFO: 127.0.0.1 - - [31/Jul/2025 10:42:51] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:43:17,908 INFO: 127.0.0.1 - - [31/Jul/2025 10:43:17] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:44:14,789 INFO: 127.0.0.1 - - [31/Jul/2025 10:44:14] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:44:29,911 INFO: 127.0.0.1 - - [31/Jul/2025 10:44:29] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:45:02,477 INFO: 127.0.0.1 - - [31/Jul/2025 10:45:02] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:45:12,620 INFO: 127.0.0.1 - - [31/Jul/2025 10:45:12] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:45:43,126 INFO: 127.0.0.1 - - [31/Jul/2025 10:45:43] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:47:01,544 INFO: 127.0.0.1 - - [31/Jul/2025 10:47:01] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:47:29,285 INFO: 127.0.0.1 - - [31/Jul/2025 10:47:29] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:47:49,528 INFO: 127.0.0.1 - - [31/Jul/2025 10:47:49] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:48:40,871 INFO: 127.0.0.1 - - [31/Jul/2025 10:48:40] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 10:48:43,943 WARNING: Invalid course_id or session_id: , 
+2025-07-31 10:48:43,944 INFO: 127.0.0.1 - - [31/Jul/2025 10:48:43] "POST /setup_session HTTP/1.1" 200 -
+2025-07-31 10:48:45,558 INFO: 127.0.0.1 - - [31/Jul/2025 10:48:45] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 10:48:49,170 INFO: 127.0.0.1 - - [31/Jul/2025 10:48:49] "GET /add_student?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:49:10,018 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:10,121 INFO:  * Restarting with stat
+2025-07-31 10:49:10,824 WARNING:  * Debugger is active!
+2025-07-31 10:49:10,826 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:21,374 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:21,450 INFO:  * Restarting with stat
+2025-07-31 10:49:22,106 WARNING:  * Debugger is active!
+2025-07-31 10:49:22,108 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:27,296 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:27,361 INFO:  * Restarting with stat
+2025-07-31 10:49:27,945 WARNING:  * Debugger is active!
+2025-07-31 10:49:27,950 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:32,116 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:32,178 INFO:  * Restarting with stat
+2025-07-31 10:49:32,771 WARNING:  * Debugger is active!
+2025-07-31 10:49:32,773 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:36,942 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:36,994 INFO:  * Restarting with stat
+2025-07-31 10:49:37,645 WARNING:  * Debugger is active!
+2025-07-31 10:49:37,647 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:40,763 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:40,822 INFO:  * Restarting with stat
+2025-07-31 10:49:41,484 WARNING:  * Debugger is active!
+2025-07-31 10:49:41,486 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:45,632 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:45,707 INFO:  * Restarting with stat
+2025-07-31 10:49:46,418 WARNING:  * Debugger is active!
+2025-07-31 10:49:46,420 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:49:47,477 INFO:  * Detected change in 'c:\\Users\\No1\\Desktop\\QR_Scan-main\\app.py', reloading
+2025-07-31 10:49:47,539 INFO:  * Restarting with stat
+2025-07-31 10:49:48,157 WARNING:  * Debugger is active!
+2025-07-31 10:49:48,159 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 10:51:39,405 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:39] "[32mGET /add_student?course_id=14&session_id=2 HTTP/1.1[0m" 302 -
+2025-07-31 10:51:39,413 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:39] "GET /login HTTP/1.1" 200 -
+2025-07-31 10:51:40,857 INFO: User admin logged in
+2025-07-31 10:51:40,857 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-31 10:51:40,871 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:40] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 10:51:45,013 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:45] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-31 10:51:45,046 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:45] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:51:49,448 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:49] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:51:54,339 INFO: 127.0.0.1 - - [31/Jul/2025 10:51:54] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:52:00,898 INFO: 127.0.0.1 - - [31/Jul/2025 10:52:00] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:52:12,496 INFO: 127.0.0.1 - - [31/Jul/2025 10:52:12] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:52:25,162 INFO: 127.0.0.1 - - [31/Jul/2025 10:52:25] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:53:05,531 INFO: 127.0.0.1 - - [31/Jul/2025 10:53:05] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 10:54:03,755 INFO: 127.0.0.1 - - [31/Jul/2025 10:54:03] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:54:29,582 INFO: 127.0.0.1 - - [31/Jul/2025 10:54:29] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:54:55,153 INFO: 127.0.0.1 - - [31/Jul/2025 10:54:55] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:54:59,839 INFO: 127.0.0.1 - - [31/Jul/2025 10:54:59] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:55:39,972 INFO: 127.0.0.1 - - [31/Jul/2025 10:55:39] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:56:54,568 INFO: 127.0.0.1 - - [31/Jul/2025 10:56:54] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:57:27,144 INFO: 127.0.0.1 - - [31/Jul/2025 10:57:27] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:57:41,727 INFO: 127.0.0.1 - - [31/Jul/2025 10:57:41] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:57:44,020 INFO: 127.0.0.1 - - [31/Jul/2025 10:57:44] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:57:56,844 INFO: 127.0.0.1 - - [31/Jul/2025 10:57:56] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:58:59,553 INFO: 127.0.0.1 - - [31/Jul/2025 10:58:59] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 10:59:55,892 INFO: 127.0.0.1 - - [31/Jul/2025 10:59:55] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:00:36,905 INFO: Attendance reset for course 1, session 1
+2025-07-31 11:00:36,906 INFO: 127.0.0.1 - - [31/Jul/2025 11:00:36] "[32mPOST /reset_attendance HTTP/1.1[0m" 302 -
+2025-07-31 11:00:36,969 INFO: 127.0.0.1 - - [31/Jul/2025 11:00:36] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:00:40,643 INFO: 127.0.0.1 - - [31/Jul/2025 11:00:40] "[32mPOST /reset_attendance HTTP/1.1[0m" 302 -
+2025-07-31 11:00:40,657 INFO: 127.0.0.1 - - [31/Jul/2025 11:00:40] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:01:38,549 INFO: 127.0.0.1 - - [31/Jul/2025 11:01:38] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:02:03,426 INFO: 127.0.0.1 - - [31/Jul/2025 11:02:03] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:02:42,406 INFO: 127.0.0.1 - - [31/Jul/2025 11:02:42] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:05:42,716 INFO: 127.0.0.1 - - [31/Jul/2025 11:05:42] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:06:16,298 INFO: 127.0.0.1 - - [31/Jul/2025 11:06:16] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:07:52,942 INFO: 127.0.0.1 - - [31/Jul/2025 11:07:52] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:08:08,611 INFO: 127.0.0.1 - - [31/Jul/2025 11:08:08] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:08:22,258 INFO: 127.0.0.1 - - [31/Jul/2025 11:08:22] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:08:40,031 INFO: 127.0.0.1 - - [31/Jul/2025 11:08:40] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:09:11,955 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:11] "GET /attendance_list?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:09:14,837 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:14] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:09:17,033 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:17] "GET /add_student?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:09:19,245 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:19] "GET /?course_id=1&session_id=1 HTTP/1.1" 200 -
+2025-07-31 11:09:20,852 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:20] "GET /setup_session HTTP/1.1" 200 -
+2025-07-31 11:09:24,830 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:24] "[32mPOST /setup_session HTTP/1.1[0m" 302 -
+2025-07-31 11:09:24,835 INFO: 127.0.0.1 - - [31/Jul/2025 11:09:24] "GET /?course_id=14&session_id=2 HTTP/1.1" 200 -
+2025-07-31 13:24:08,465 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:24:08,465 INFO: [33mPress CTRL+C to quit[0m
+2025-07-31 13:24:08,467 INFO:  * Restarting with stat
+2025-07-31 13:24:09,134 WARNING:  * Debugger is active!
+2025-07-31 13:24:09,136 INFO:  * Debugger PIN: 392-493-629
+2025-07-31 13:24:29,184 INFO: 127.0.0.1 - - [31/Jul/2025 13:24:29] "[32mGET /?course_id=14&session_id=2 HTTP/1.1[0m" 302 -
+2025-07-31 13:24:29,198 INFO: 127.0.0.1 - - [31/Jul/2025 13:24:29] "GET /login HTTP/1.1" 200 -
+2025-07-31 13:24:36,211 INFO: 127.0.0.1 - - [31/Jul/2025 13:24:36] "GET /login HTTP/1.1" 200 -
+2025-07-31 13:24:37,199 INFO: User admin logged in
+2025-07-31 13:24:37,206 INFO: 127.0.0.1 - - [31/Jul/2025 13:24:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-31 13:24:37,216 INFO: 127.0.0.1 - - [31/Jul/2025 13:24:37] "GET /setup_session HTTP/1.1" 200 -
